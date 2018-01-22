@@ -7,7 +7,7 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 
 1. Lis le [contrat pédagogique](../../../BeCode/blob/master/contratpedagogique.md).
 1. Consulte également le [livret des apprenants](https://docs.google.com/document/d/1ic7FbY_2QNg2X1n3jS0KEFEa7SbnsjKakEYkYc--XcE/edit?usp=sharing).
-1. L'agenda de ta startup : au format [html](https://calendar.google.com/calendar/b/1?cid=YmVjb2RlLm9yZ19obWs5MmJlcHI4aHJwY2F2aTZkOXYyOWMwY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) et au format  [iCal](https://calendar.google.com/calendar/ical/becode.org_polsjrmae5rtbr6u4i2jvgih90%40group.calendar.google.com/public/basic.ics)
+1. L'agenda de ta startup : au format [html](https://calendar.google.com/calendar/embed?src=becode.org_hmk92bepr8hrpcavi6d9v29c0c%40group.calendar.google.com&ctz=Europe%2FBrussels) et au format  [iCal](https://calendar.google.com/calendar/ical/becode.org_hmk92bepr8hrpcavi6d9v29c0c%40group.calendar.google.com/public/basic.ics)
 1. Le [Wiki de BeCode](https://github.com/becodeorg/BeCode/wiki)
 
 ## Retards et absences
