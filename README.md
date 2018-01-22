@@ -1,4 +1,4 @@
-# startup Charleroi (Nom provisoire)
+# startup Alan Turing - 4
 
 Ce repo est pour tout ce qui concerne ton activité à BeCode : briefings, parcours, etc.
 Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises à jour.
