@@ -39,7 +39,7 @@ Les projets sont découpés en phases, dans un processus itératif (chaque phase
 
 * voir comment réaliser rapidement un site web, sur base de templates existants. Guerilla style. 
 
-* Comprendre par l’absurde l’intérêt de bien comprendre une demande avant de coder.
+* Découvrir les bases de l'html/css.
 
 **À livrer**
 
