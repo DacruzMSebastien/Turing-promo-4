@@ -43,6 +43,6 @@ Les projets sont découpés en phases, dans un processus itératif (chaque phase
 
 **À livrer**
 
-Tu reçois un projet. Réalise, en quelques heures un onepager (une **github page**) qui propose une meilleure version de ce projet, en utilisant un template (par exemple :[ html5up.net](https://html5up.net/)). Veille à ce que cette page obtienne un **score maximum sur le lighthouse test**.
+Tu reçois un projet. Réalise, en quelques heures un onepager (une **github page**) qui propose une meilleure version de ce projet, en utilisant un template (par exemple :[ html5up.net](https://html5up.net/)).
 
 Durant cette phase, le respect de la deadline est **primordial et non négociable**.
