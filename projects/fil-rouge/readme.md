@@ -4,7 +4,7 @@ Ces projets ont pour objectif :
 
 - que chaque apprenant(e) dispose au terme de la formation, sur son repo des produits digitaux types :
 
-  - one-pager (qui passe le lighthouse test haut la main)
+  - one-pager 
   - mobile native appsite 
   - multipage
   - 1 CMS custom
@@ -39,10 +39,10 @@ Les projets sont découpés en phases, dans un processus itératif (chaque phase
 
 * voir comment réaliser rapidement un site web, sur base de templates existants. Guerilla style. 
 
-* Comprendre par l’absurde l’intérêt de bien comprendre une demande avant de coder.
+* Découvrir les bases de l'html/css.
 
 **À livrer**
 
-Tu reçois un projet. Réalise, en quelques heures un onepager (une **github page**) qui propose une meilleure version de ce projet, en utilisant un template (par exemple :[ html5up.net](https://html5up.net/)). Veille à ce que cette page obtienne un **score maximum sur le lighthouse test**.
+Tu reçois un projet. Réalise, en quelques heures un onepager (une **github page**) qui propose une meilleure version de ce projet, en utilisant un template (par exemple :[ html5up.net](https://html5up.net/)).
 
 Durant cette phase, le respect de la deadline est **primordial et non négociable**.
