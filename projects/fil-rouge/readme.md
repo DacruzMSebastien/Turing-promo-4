@@ -4,7 +4,7 @@ Ces projets ont pour objectif :
 
 - que chaque apprenant(e) dispose au terme de la formation, sur son repo des produits digitaux types :
 
-  - one-pager (qui passe le lighthouse test haut la main)
+  - one-pager 
   - mobile native appsite 
   - multipage
   - 1 CMS custom
