@@ -9,7 +9,7 @@
 
 ## Instructions 
 
-En pair-coding (groupe de deux), réaliser l'introduction de Star Wars en HTML et CSS
+Réalise l'introduction de Star Wars en HTML et CSS
 Voici une [vidéo d'exemple](https://www.youtube.com/watch?v=C587lNBQXAw)
 Dans un premier temps on va juste faire défiler le texte.
 
