@@ -14,4 +14,8 @@ Petit parcours html de 7 exercices afin de devenir un jedi de l'HTML.
 * Bien commenté, ton code sera.
 * Tous les exercices, tu feras. 
 
+
+## DeadLine 
+Jeudi 01/02/2018 à 16h30.
+
 ![Image Jedi](https://assets-jpcust.jwpsrv.com/thumbs/h1ferMj9-720.jpg)
