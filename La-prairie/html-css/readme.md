@@ -1,7 +1,7 @@
 # Projet HTML/CSS
 Petit parcours html de 7 exercices afin de devenir un jedi de l'HTML. 
 
-[Exercice 1 - Html Basic](Exercice-1-hmtl-basic.md)  
+[Exercice 1 - Html Basic](Exercice-1-html-basic.md)  
 
 **Pour devenir un jedi  :** 
 * Bien indenté, ton code sera.
