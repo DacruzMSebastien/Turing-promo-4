@@ -7,7 +7,7 @@ Petit parcours html de 7 exercices afin de devenir un jedi de l'HTML.
 4. [Exercice 4 - Créer un CV](Exercice-4-creer-un-cv.md)
 5. [Exercice 5 - VCARD](Exercice-5-vcard.md)
 6. [Exercice 6 - Récap](Exercice-6-summary.md)
-7. [Exercice 7 - Star Wars (Bonus)](Exercice-7-Star-wars.md)
+7. [Exercice 7 - Star Wars (Bonus)](Exercice-7-Star-wars[Bonus].md)
 
 **Pour devenir un jedi  :** 
 * Bien indenté, ton code sera.
