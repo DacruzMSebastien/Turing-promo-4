@@ -10,7 +10,7 @@ Petit parcours html de 7 exercices afin de devenir un jedi de l'HTML.
 7. [Exercice 7 - Star Wars (Bonus)](Exercice-7-Star-wars[Bonus].md)
 
 **Pour devenir un jedi  :** 
-* Bien indenté, ton code sera.
+* Bien indenté, ton code sera. [Lien Pierre Giraud](http://www.pierre-giraud.com/html-css/cours-complet/indentation-commentaires-html.php)
 * Bien commenté, ton code sera.
 * Tous les exercices, tu feras. 
 
