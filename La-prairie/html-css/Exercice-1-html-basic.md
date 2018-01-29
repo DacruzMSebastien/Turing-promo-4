@@ -11,11 +11,11 @@
 
 ## Instructions
 
-#### 1. Crée toi un projet GitHub `HTML-Basic` et initialise ton repo en local.
+### 1. Crée toi un projet GitHub `HTML-Basic` et initialise ton repo en local.
 N'oublie pas de faire quelques commit durant l'exercice.  
 
 
-#### 2. Crée un sous-dossier `Exercice-1-Les-bases` et crée un fichier `index.html`        
+### 2. Crée un sous-dossier `Exercice-1-Les-bases` et crée un fichier `index.html`        
 
 1. Rajoute un titre principal à ta page "*Les bases de l'html*"
 1. Rajoute ensuite les titres et sous-titres en respectant la hiérarchie suivante :   
@@ -29,7 +29,7 @@ Les bases de l'html
 - Le markdown et l'HTML
 ````
 
-#### 3. Apporte du contenu à ta page.   
+### 3. Apporte du contenu à ta page.   
 Rajoute des paragraphes pour chaque sous-titre et exlique les points suivants :    
 1. Ce qu'est une balise paire. Fais une liste avec 5 balises paires.
 2. Ce qu'est une balise orpheline. Fais une liste avec 3 balises orphelines.
@@ -51,7 +51,7 @@ Rajoute des paragraphes pour chaque sous-titre et exlique les points suivants :
 *Tips :* Pour afficher du code html, utilise la balise ``<pre></pre>``
 
 
-#### 4. Compare le markdown et l'html
+### 4. Compare le markdown et l'html
 
 À l'aide des balises ``<pre></pre>``, compare les différences de syntaxe entre le markdown et l'html. 
 Indique le code pour :   
@@ -75,4 +75,4 @@ Indique le code pour :
 <h3> Titre 3</h3>
 ````
 
-#### 5. Publie ton document sur github
+### 5. Publie ton document sur github
