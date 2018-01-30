@@ -43,7 +43,7 @@ Faire les actions suivantes dans le dossier **"starting-web-developpment"**
 
 ### Étape 3 : CSS
 
-- Faire de sorte que votre page ressemble à celle-ci ![Goal CSS](images/goal-css.png)
+- Faire de sorte que votre page ressemble à celle-ci ![Goal CSS](goal-css.png)
 - Pour avoir une jolie typographie utiliser ceci : 
 ```html
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700">
