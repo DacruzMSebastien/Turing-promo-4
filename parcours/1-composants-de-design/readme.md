@@ -35,9 +35,6 @@ Pour cela, utilises des outils en ligne comme [pixlr](https://pixlr.com/editor/)
 
 Les photos peuvent être différentes et tu peux en trouver ici : [Unsplash](https://unsplash.com).
 
-## Astuces 
-
-[Fais ta propre grille avec SASS](https://css-tricks.com/dont-overthink-it-grids/)
 
 ### Voir le contour de tous les éléments
 À appliquer au `body`
