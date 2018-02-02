@@ -20,26 +20,6 @@ Pour chaque composant, crée un dossier du même nom que l'image, contenant cett
 
 **Nom du repository à créer sur github:** `7-composants-de-design`  
 
-## Installer un compilateur de SASS
-
-- Installer Ruby
-- Installer un compilateur: [koala](http://koala-app.com) est gratuit et cross-platform.
-
-## Utiliser sass pour générer du code css modulaire
-
-- lancer koala et y ajouter ton dossier de travail
-- créer le(s) fichier(s) scss
-- compiler le fichier css à chaque fois que le fichier scss est modifié.
-
-## explore ce que sass te permet de faire
-- utilisation de variables
-- importation de fichiers partiels
-- Imbrication ("Nesting") des sélecteurs
-
-Tutos: [The SASS way - thesassway](http://www.thesassway.com/beginner) 
-Playground: [SASS meister](https://www.sassmeister.com/)
-
-
 ## Ressources et images
 
 Les images ne permettent pas d'identifier les fonts facilement. Utilise des polices différentes mais proches.
