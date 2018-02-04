@@ -1,5 +1,5 @@
 # Bonus - Exercice 7 - Réaliser le générique de star wars 
-![Generiue de star wars](images/star-wars.jpg)
+![Generique de star wars](images/star-wars.jpg)
 
 ## Objectifs
 
