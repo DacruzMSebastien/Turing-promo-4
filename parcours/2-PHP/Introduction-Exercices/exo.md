@@ -1,9 +1,9 @@
 # QUIZZ / PHP
 
-1 Parmi les variables suivantes, lesquelles ont un nom valide en PHP:  
+1. Parmi les variables suivantes, lesquelles ont un nom valide en PHP:  
 `mavar`, `$mavar`, `$var5`, `$_mavar`, `$_5var`, `$__élément1`, `$hotel4*` ?
 
-1 Le code PHP doit se trouver à l'intérieur de balises spécifiques. Lesquelles?
+1. Le code PHP doit se trouver à l'intérieur de balises spécifiques. Lesquelles?
 	-  `<?php>...</?>`  
 	-  `<script>...</script> ` 
 	- `<&>...</&> ` 
