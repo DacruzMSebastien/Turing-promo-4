@@ -8,7 +8,7 @@
 - [Introduction](php-introduction.md)  
 - [Variables](php-variables.md)  
 - [Conditions](php-conditions.md) 
-- Drill: [Exercices sur les Conditions](php-exercices-conditions.md) 
+- Drill: [Exercices sur les Conditions](exo.md) 
 - [Tableaux (array)](php-array.md)
 - [Boucles](php-boucles.md)    ← 
 - [Fonctions](php-fonctions.md) 
