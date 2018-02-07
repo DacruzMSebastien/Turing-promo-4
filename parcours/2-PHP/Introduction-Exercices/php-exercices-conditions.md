@@ -165,5 +165,5 @@ Tu as fait tous ces exercices? Bravo, voici un gif!
 
 ![Giphy](http://media0.giphy.com/media/CNprQ8KGpORVu/giphy.gif)
 
-Fais-toi un petit [quizz](../../Quizz/PHP/php-base-1.md) pour vérifier l'état de tes connaissances.
+Fais-toi un petit [quizz](exo.md) pour vérifier l'état de tes connaissances.
 
