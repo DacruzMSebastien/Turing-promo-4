@@ -14,8 +14,4 @@
 ## Exercices complémentaires
 
 1.	Formulaire de contact de la société Hackers Poulette
-1. QCM
-1. Questionnaire en ligne: Nomophobie ou pas?
-1. Pinterest
 1. Todolist + json
-1. Todolist + SQL
