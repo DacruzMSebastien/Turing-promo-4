@@ -28,9 +28,6 @@ Ta mission: développer un script en php, permettant d'afficher un formulaire de
 - Ton code est publié sur un repository intitulé "`projet-1-formulaire`"
 
 ## Critères de perfectionnement (à implémenter dans un second temps)
-- validation côté client en javascript (via jquery)
-- soumission et feedback via Ajax (via jquery)
-- exploiter ce projet dans le cadre des 4 ans de Simplon ? ("un formulaire qui envoie du Love à Simplon! sur tw, fb, ..." ??)
 - Expérience-utilisateur (UX) soignée (clarté, pertinence, correction (pas de bugs, orthographe correcte...)).
 
 ## Découpage de la difficulté en séquences pédagogiques
