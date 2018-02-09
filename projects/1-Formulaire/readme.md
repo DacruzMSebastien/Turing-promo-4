@@ -60,6 +60,6 @@ couleurs: #15c5bd + #FFF + #303030
 	- manipulation: concaténation, addition, quelques exemples de fonctions utiles...
 	- conditions
 	- Boucles
-- sanitization: neutraliser tout encodage nocif (`<script>`)
+- [sanitization](https://github.com/becodeorg/Turing-promo-4/tree/master/parcours/2-PHP/Doc/Sanitisation-en-PHP): neutraliser tout encodage nocif (`<script>`)
 - validation: champs obligatoires + Email valide
 - Envoi + Feedback
