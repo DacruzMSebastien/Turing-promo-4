@@ -13,5 +13,5 @@
 
 ## Exercices complémentaires
 
-1.	Formulaire de contact de la société Hackers Poulette
+1.	[Formulaire de contact de la société Hackers Poulette)](https://github.com/becodeorg/Turing-promo-4/tree/master/projects/1-Formulaire)
 1. Todolist + json
