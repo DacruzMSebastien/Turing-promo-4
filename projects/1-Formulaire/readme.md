@@ -52,7 +52,7 @@ couleurs: #15c5bd + #FFF + #303030
 - tester un script PHP en local
 - **afficher les données brut** reçues du formulaire (utiliser la fonction php `print_r();` ([voir la doc php](http://php.net/manual/en/function.print-r.php) )
 ### Séquence 4: traiter les données du formulaire (php)
-- [Parcours-tutoriel](php-introduction.md): "structures logiques de la programmation en PHP"    
+- [Parcours-tutoriel](https://github.com/becodeorg/Turing-promo-4/tree/master/parcours/2-PHP/Introduction-Exercices): "structures logiques de la programmation en PHP"    
 	- variables
 	- manipulation: concaténation, addition, quelques exemples de fonctions utiles...
 	- conditions
