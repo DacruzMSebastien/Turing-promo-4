@@ -18,7 +18,7 @@ Repars de ton fichier existant, ne pars pas de zéro.
 - Soigne le style de ta todo-list avec le css.
 
 ## Bonus
-Rajoute une date déchéance pour la tâche. Quand celle-ci arrive à échéance, Mets la tâche en rouge pour avertir l'utilisateur qu'il doit faire la tâche. 
+Rajoute une date d'échéance pour la tâche. Quand celle-ci arrive à terme, mets la tâche en rouge pour avertir l'utilisateur qu'il doit faire la tâche au plus vite. 
 
 ## Deadline 
 Mercredi 17h00. 
