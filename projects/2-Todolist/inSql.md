@@ -17,4 +17,4 @@ Repars de ton fichier existant, ne pars pas de zéro.
 - Modifie le fichier contenu php pour qu'il update le status de la tâche quand elle est faite. 
 
 ## Deadline 
-Mercredi matin. 
+Mercredi 17h00. 
