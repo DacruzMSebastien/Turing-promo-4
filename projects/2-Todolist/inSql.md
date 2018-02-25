@@ -10,11 +10,11 @@ Repars de ton fichier existant, ne pars pas de zéro.
 
 ### Jour 1 
 - Fais les [exos sur le SQL](https://github.com/becodeorg/Turing-promo-4/tree/master/parcours/3-MySQL)
-- Créer ta base de données
+- Créer ta base de données ````todolist````
 - Modifie formulaire.php pourq'il écrive les nouvelles tâches dans la base de données.
 
 ### Jour 2
-- Modifie le fichier contenu php pour qu'il update le status de la tâche quand elle est faite.
+- Modifie le fichier contenu.php pour qu'il update le statut de la tâche quand elle est faite.
 - Soigne le style de ta todo-list avec le css.
 
 ## Bonus
