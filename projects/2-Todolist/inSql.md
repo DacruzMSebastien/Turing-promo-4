@@ -14,7 +14,11 @@ Repars de ton fichier existant, ne pars pas de zéro.
 - Modifie formulaire.php pourq'il écrive les nouvelles tâches dans la base de données.
 
 ### Jour 2
-- Modifie le fichier contenu php pour qu'il update le status de la tâche quand elle est faite. 
+- Modifie le fichier contenu php pour qu'il update le status de la tâche quand elle est faite.
+- Soigne le style de ta todo-list avec le css.
+
+## Bonus
+Rajoute une date déchéance pour la tâche. Quand celle-ci arrive à échéance, Mets la tâche en rouge pour avertir l'utilisateur qu'il doit faire la tâche. 
 
 ## Deadline 
 Mercredi 17h00. 
