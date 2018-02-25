@@ -6,5 +6,10 @@ Repars de ton fichier existant, ne pars pas de zéro.
 - Les bases de données et le SQL
 - L'objet [PDO](https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql/lire-des-donnees-2) en php.
 
+## Etape 
+
+### Jour 1 
+- Fais le [parcour SQL](https://github.com/becodeorg/Turing-promo-4/tree/master/parcours/3-MySQL)
+
 ## Deadline 
 Mercredi matin. 
