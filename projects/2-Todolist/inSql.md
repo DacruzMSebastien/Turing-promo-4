@@ -9,7 +9,7 @@ Repars de ton fichier existant, ne pars pas de zéro.
 ## Etape 
 
 ### Jour 1 
-- Fais le [parcour SQL](https://github.com/becodeorg/Turing-promo-4/tree/master/parcours/3-MySQL)
+- Fais les [exos sur le SQL](https://github.com/becodeorg/Turing-promo-4/tree/master/parcours/3-MySQL)
 - Créer ta base de données
 - Modifie formulaire.php pourq'il écrive les nouvelles tâches dans la base de données.
 
