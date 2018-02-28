@@ -24,7 +24,7 @@ Face à ces limites, la solution actuelle est d'associer au serveur web et à l'
 
 ![via MySQL](./assets/amazon.gif)
 
-*Pour la petite histoire, il va très vite parce que le serveur SQL met les données dans la RAM de l'ordinateur hébergeant le serveur. Et cela veut dire quoi RAM? Yep: "Rapid Access Memory". Comme il est en mémoire, pas besoin d'ouvrir ou fermer des fichiers sur un disque dur, typiquement plus lent.*
+*Pour la petite histoire, il va très vite parce que le serveur SQL met les données dans la RAM de l'ordinateur hébergeant le serveur. Et cela veut dire quoi RAM? Yep: "Random Access Memory". Comme il est en mémoire, pas besoin d'ouvrir ou fermer des fichiers sur un disque dur, typiquement plus lent.*
 
 ## Les bases de données sont partout
 
