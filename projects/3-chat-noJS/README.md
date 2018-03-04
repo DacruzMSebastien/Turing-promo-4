@@ -27,7 +27,11 @@ Les messages seront stockés dans une table MySQL "messages" et les utilisateurs
 5. Bien entendu, chaque traitement de formulaire fera l'objet d'une **sanitisation** et d'une **validation** préalable.
 
 ## Objectifs secondaires
-Pour en faire un produit compétitif, on peut aussi imaginer d'implémenter des choses comme : remplacer les smileys `:-)` `:-(` ... par des images emoji, avoir une image comme portrait pour chaque utilisateur (du coup, ajouter une page de "profil"), soigner l'UX (donner un nom et une personnalité à ton outil via du CSS, en vue d'en faire un produit prêt à livrer) histoire de le mettre sur ton portfolio, pouvoir envoyer une image dans la conversation, ...
+1. Implémente des choses comme : remplacer les smileys `:-)` `:-(` ... par des images emoji
+1. Avatar pour chaque utilisateur
+1. Ajouter une page de "profil" 
+1. Soigner l'UX (donner un nom et une personnalité à ton outil via du CSS, en vue d'en faire un produit prêt à livrer) histoire de le mettre sur ton portfolio.
+1. Pouvoir envoyer une image dans la conversation, ...
 
 
 ## UX
