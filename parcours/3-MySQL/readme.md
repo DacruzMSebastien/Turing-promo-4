@@ -87,12 +87,16 @@ Une fois ta db créée, ton application effectuera essentiellement 4 types d'op�
 
 Pour découvrir la syntaxe SQL, suis à présent ces leçons, dans cet ordre.
 
-1. [Intro](./readme.md)   (tu es ici)  ←
-1. Read : [SELECT](./1.select.md)
-1. Create : [INSERT INTO](./2.insert.md)
-1. Update : [UPDATE](./3.update.md)
-1. Delete : [DELETE FROM](./4.delete.md)
-2. Pour [voler de tes propres ailes](./5.moveon.md)
+1. [Intro](./readme.md)     
+1. Read : [SELECT](./1.select.md)  
+1. Create : [INSERT INTO](./2.insert.md)  
+1. Update : [UPDATE](./3.update.md)   
+1. Delete : [DELETE FROM](./4.delete.md)  
+1. Pour [voler de tes propres ailes](./5.moveon.md)
+1. PHP + MySQL  : [via PDO](./6.pdo.md)   
+1. [Base de données relationnelles](./7.relational-db.md)
+1. [INNER JOIN/ LFET JOIN /RIGHT JOIN](./8.join.md) ←  
+
 
 Pour te faciliter l'apprentissage, tu ne dois rien installer à ce stade. On va utiliser le site http://sqlfiddle.com pour que tu ne doives te concentrer que sur la compréhension et l'acquisition de la syntaxe SQL.
 
