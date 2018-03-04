@@ -17,7 +17,7 @@ Pour cet exercice, tu ne peux **PAS** utiliser de JavaScript (ce n'est que parti
 Ce fichier sera affiché dans une balise `iframe` (balise que tu mettras dans le fichier *index.php*). Une deuxième iframe en dessous contient le formulaire permettant d'ajouter un message dans le chat.
 
 ### 2. Messages stockés dans une table MySQL
-Les messages seront stockés dans une table MySQL "messages" et les utilisateurs dans la table "users". 
+Les messages seront stockés dans une table MySQL "messages" et les utilisateurs dans une table "users". 
 À toi de définir les colonnes nécessaires pour réaliser l'expérience décrite dans le prototype.
 
 ## Fonctionnalités à implémenter:
