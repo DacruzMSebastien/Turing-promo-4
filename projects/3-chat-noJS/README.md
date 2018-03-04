@@ -10,9 +10,10 @@ Autrement dit, une application de *chat*.
 
 ## Contraintes 
 
-### 1. No javascript! *!Important*
+### 1. No javascript! 
+*!Important*
 
-Pour cet exercice, tu ne peux PAS utiliser de JavaScript (ce n'est que partie remise, tkt). Du coup, pour que la conversation soit toujours à jour, on va utiliser un fichier pour afficher la conversation (baptisé par exemple `conversation.php`) qui se recharge toutes les 10 secondes (via une balise meta html (google "html auto refresh" pour la trouver).
+Pour cet exercice, tu ne peux **PAS** utiliser de JavaScript (ce n'est que partie remise, tkt). Du coup, pour que la conversation soit toujours à jour, on va utiliser un fichier pour afficher la conversation (baptisé par exemple `conversation.php`) qui se recharge toutes les 10 secondes (via une balise meta html (google "html auto refresh" pour la trouver).
 Ce fichier sera affiché dans une balise `iframe` (balise que tu mettras dans le fichier *index.php*). Une deuxième iframe en dessous contient le formulaire permettant d'ajouter un message dans le chat.
 
 ### 2. Messages stockés dans une table MySQL
