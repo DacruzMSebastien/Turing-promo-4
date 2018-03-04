@@ -10,7 +10,7 @@
 1. Pour [voler de tes propres ailes](./5.moveon.md)
 1. PHP + MySQL  : [via PDO](./6.pdo.md)   
 1. [Base de données relationnelles](./7.relational-db.md)
-1. [INNER JOIN/ LFET JOIN /RIGHT JOIN](./8.join.md) ←  
+1. [INNER JOIN/ LFET JOIN /RIGHT JOIN](./8.join.md)
 
 
 ## Objectifs de ce parcours SQL 
