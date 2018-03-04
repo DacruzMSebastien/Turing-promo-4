@@ -50,7 +50,7 @@ Pour en faire un produit compétitif, on peut aussi imaginer d'implémenter des 
 1. (Papier + bic): Planifie et conçois ta solution en réalisant un schéma des écrans à créer: quels fichiers? Quelle DB? Que doit-il se passer? Réalise un inventaire des formulaires à créer, des fichiers. Mets de l'ordre dans ta tête.
 2. Modélise la Base de données: quelle relation lie les 2 tables ? (Refais le parcours sql sur les jointures au besoin.)
 2. Lis et comprends (expérimente au besoin) la balise `Iframe` (http://www.iframehtml.com/ )
-3. Lis et comprends (expérimente au besoin) les sessions PHP ( ^["php session tutorial"](http://bfy.tw/GvDJ))
+3. Lis et comprends (expérimente au besoin) les sessions PHP ( ["php session tutorial"](http://bfy.tw/GvDJ))
 3. Création de son repo et dossier de travail local
 4. Fonctionnalité d'inscription (**subscribe**)
 5. Fonctionnalité de Connexion / Déconnexion (**login**/**logout**)
