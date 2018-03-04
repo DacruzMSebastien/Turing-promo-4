@@ -29,9 +29,11 @@ Les messages seront stockés dans une table MySQL "messages" et les utilisateurs
 ## Objectifs secondaires
 1. Implémente des choses comme : remplacer les smileys `:-)` `:-(` ... par des images emoji
 1. Avatar pour chaque utilisateur
-1. Ajouter une page de "profil" 
+1. Ajouter une page de "profil" por chaque utilisateur
 1. Soigner l'UX (donner un nom et une personnalité à ton outil via du CSS, en vue d'en faire un produit prêt à livrer) histoire de le mettre sur ton portfolio.
-1. Pouvoir envoyer une image dans la conversation, ...
+1. Pouvoir envoyer une image dans la conversation. 
+1. Quand on met un lien qu'il soit automatiquement cliquable
+1. Présence des utilisateurs
 
 
 ## UX
