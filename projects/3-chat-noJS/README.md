@@ -27,7 +27,10 @@ Les messages seront stockés dans une table MySQL "messages" et les utilisateurs
 5. Bien entendu, chaque traitement de formulaire fera l'objet d'une **sanitisation** et d'une **validation** préalable.
 
 ## Objectifs secondaires
-1. Implémente des choses comme : remplacer les smileys `:-)` `:-(` ... par des images emoji
+
+Implémente des choses comme : 
+
+1. Remplacer les smileys `:-)` `:-(` ... par des images emoji
 1. Avatar pour chaque utilisateur
 1. Ajouter une page de "profil" por chaque utilisateur
 1. Soigner l'UX (donner un nom et une personnalité à ton outil via du CSS, en vue d'en faire un produit prêt à livrer) histoire de le mettre sur ton portfolio.
