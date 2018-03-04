@@ -1,6 +1,6 @@
 # Un outil de *chat*, en php + mysql
 
-Cet exercice a pour but de te préparer la suite de la formation: les bases de données relationnelles.
+Cet exercice a pour but de te préparer pour  la suite de la formation: les bases de données relationnelles.
 
 ## Deadline: Mercredi prochain.
 
