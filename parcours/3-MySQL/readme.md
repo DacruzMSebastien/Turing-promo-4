@@ -2,6 +2,17 @@
 
 # MySQL et les base de données
 
+1. [Intro](./readme.md)     
+1. Read : [SELECT](./1.select.md)  
+1. Create : [INSERT INTO](./2.insert.md)  
+1. Update : [UPDATE](./3.update.md)   
+1. Delete : [DELETE FROM](./4.delete.md)  
+1. Pour [voler de tes propres ailes](./5.moveon.md)
+1. PHP + MySQL  : [via PDO](./6.pdo.md)   
+1. [Base de données relationnelles](./7.relational-db.md)
+1. [INNER JOIN/ LFET JOIN /RIGHT JOIN](./8.join.md) ←  
+
+
 ## Objectifs de ce parcours SQL 
 - Comprendre ce qu'est une base de données et à quoi cela sert.
 - Maîtriser la syntaxe SQL. 
