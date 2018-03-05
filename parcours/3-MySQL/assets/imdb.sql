@@ -44,7 +44,7 @@ INSERT INTO `authors` (`id`, `lastname`, `firstname`) VALUES
 (5, 'Hitchcock', 'Alfred'),
 (6, 'Eastwood', 'Clint'),
 (7, 'Kubrick', 'Stanley'),
-(8, 'Kubrick', 'Stanley');
+(8, 'Lavandier', 'Yves');
 
 -- --------------------------------------------------------
 
