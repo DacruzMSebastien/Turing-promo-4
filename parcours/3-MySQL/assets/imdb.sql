@@ -43,7 +43,8 @@ INSERT INTO `authors` (`id`, `lastname`, `firstname`) VALUES
 (4, 'Scorsese', 'Martin'),
 (5, 'Hitchcock', 'Alfred'),
 (6, 'Eastwood', 'Clint'),
-(7, 'Kubrick', 'Stanley');
+(7, 'Kubrick', 'Stanley'),
+(8, 'Kubrick', 'Stanley');
 
 -- --------------------------------------------------------
 
@@ -107,7 +108,7 @@ ALTER TABLE `movies`
 -- AUTO_INCREMENT pour la table `authors`
 --
 ALTER TABLE `authors`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
 --
 -- AUTO_INCREMENT pour la table `movies`
 --
