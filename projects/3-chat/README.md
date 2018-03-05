@@ -2,7 +2,7 @@
 
 Cet exercice a pour but de te préparer pour  la suite de la formation: les bases de données relationnelles.
 
-## Deadline: Mercredi prochain.
+## Deadline: Lundi 12/03 à 9h00.
 
 ## Mission
 Réalise un outil permettant à plusieurs personnes de communiquer à distance, par écrit.  
