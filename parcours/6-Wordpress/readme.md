@@ -74,6 +74,10 @@
     the_post_thumbnail();
     }
 ```
+
+
+## Projet [FooDog](https://github.com/becodeorg/Turing-promo-4/tree/master/projects/4-foodog)
+
 ## Voir aussi
 - Installer le thème https://fr.wordpress.org/themes/zerif-lite/ puis personnaliser le CSS  
 - http://wordpress.com/ => Pour créer des sites wordpress hébergés en ligne gratuitement  
