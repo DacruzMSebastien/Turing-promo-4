@@ -23,7 +23,7 @@ Le client à une idée très précise de ce qu'il souhaite. Il tient particuliè
 6. L'apport de travail doit être équitable entre les 4 équipiers. Départagez-vous les tâches équitablement. Utilisez un toutil comme Trello pour vous organiser. 
 7. Utilisez les tags, certains articles devront apartenir à plusieurs catégories. 
 7. Le système de pagination doit fonctionner.
-7. La single page doit un menu hamburger.
+7. La single page doit avoir un menu hamburger.
 8. Intégrez-y un moteur de recherche. Pour la recheche, une fenêtre modale devra apparaître lorsqu'on l'on cliquera sur la loupe. 
 9. Installez des plugins comme Yoast SEO pour le référencement.
 10. **PAS DE BUG**, tout doit fonctionner. 
