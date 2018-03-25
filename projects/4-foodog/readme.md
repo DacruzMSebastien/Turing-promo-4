@@ -1,4 +1,5 @@
 ![Foodog](logo.JPG)
+
 *Par equipe de 4.*
 
 ***Demande*** : Réaliser un blog pour un client. Ce client possède déjà un site internet pour sa société mais voudrait accentuer sa présence sur internet via l'animation d'un blog. Celui-ci s'appelle FooDog. Un blog qui parle d"alimentation pour les chiens qu'il veut pouvoir mettre à jour quand il le souhaite. 
@@ -39,9 +40,9 @@ Le client à une idée très précise de ce qu'il souhaite. Il tient particuliè
 Mercredi **11/04/2018 à 9h00**.
 
 **Polices utilisées**:
- [Crimson text]('https://fonts.google.com/specimen/Crimson+Text) 
+ [Crimson text](https://fonts.google.com/specimen/Crimson+Text) 
  [Open sans](https://fonts.google.com/specimen/Open+Sans)
- 
+
 **Les images**
  [unsplash](https://unsplash.com/search/photos/dog-)
  [instagram](https://www.instagram.com/explore/tags/dogfood/?hl=fr)
