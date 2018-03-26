@@ -16,10 +16,7 @@ Il te faut une base de données MySQL et un serveur local.
 2. [Comprendre la terminologie de WordPress](./2.terminologie.md) :  
 Différence entre "page" et "article", "plugin" et "thème", "taxonomies", cela implique quoi "faire un site sur WordPress".
 
-Une fois que le parcours est terminé, choisis un des deux briefings :
 
-- [Briefing créatif](./3.briefingcreatif.md) : Fais toi un thème wordpress par toi-même sans autre instruction que de découvrir et d'apprendre à utiliser la bestiole.
-- [Briefing FlexiCV](./3.briefingstrict.md) : Débrouille toi pour faire en sorte que la maquette soit respectée et intégrée à un site wordpress.
 
 ## Ressources 
 [Wordpress in the classroom](Wordpress_in_the_classroom.pdf)
