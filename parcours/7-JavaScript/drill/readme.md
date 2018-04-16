@@ -1,7 +1,7 @@
 # Briefing  Javascript, les bases.
 
 ### Exo 1
-Termine les [drills](./exercices)  et [drills-dom](./exercices-DOM) javascript.
+Termine les [drill](./exercices)  et [drill-dom](./exercices-DOM) javascript.
 
 ### Exo 2
 Reprends ton travail sur le **chat sql** ou la **todolist sql**. Utilise le javascript (Ajax) pour que la page ne se recharge pas quand il y a une nouvelle entrée. (Donc plus d'iframe pour le chat SQL). 
