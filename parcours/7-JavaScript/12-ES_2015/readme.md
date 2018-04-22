@@ -1,4 +1,5 @@
 # ES2015 et + 
+**/!\ Attention, avant de lire ceci, tu dois finir [le drill-level2](../drill-level2)**
 ## L'ECMAScript c'est quoi ?
 Wikipédia : 
 
