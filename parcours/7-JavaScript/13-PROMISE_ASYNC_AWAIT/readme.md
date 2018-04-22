@@ -125,7 +125,7 @@ let loadFile = (url) => {
 }
 
 ````
-Ensuite ... on utilise la méthode ``then`` si l'opération à réussit. Dans cette méthode on met un callback qui s'éxécutera uniquement si la promesse à réussit. La méthode ```catch``` permet quant à elle de capter si une des opérations ne s'est pas déroulée correctement.
+Ensuite ... on utilise la méthode ``then`` si l'opération réussit. Dans cette méthode on met un callback qui s'éxécutera uniquement si la promesse est résolue. La méthode ```catch``` permet quant à elle de capter si une des opérations ne s'est pas déroulée correctement.
 
 ````javascript
 
