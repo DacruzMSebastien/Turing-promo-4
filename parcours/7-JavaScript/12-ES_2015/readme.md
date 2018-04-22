@@ -26,7 +26,6 @@ Quelle est la différence entre un let et var ? La réponse est simple: il s'agi
 
 ```javascript
 
-
 // En ES5
 
 var hello ="Bonjour";
