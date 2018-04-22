@@ -100,7 +100,7 @@ Bon le problème avec cette méthode, c'est qu'il faut parfois imbriquer plusieu
 ## Les promesses (enfin)
 Je vous l'avais promis, voici les promesses. (Oui je sais ...)
 
-Les promesses (promise) en js sont des objets contenant plusieurs méthodes permettant de gérer l'asynchrone. Les promesses sont sorties avec le lots de nouveautés de l'es2015. 
+Les promesses (promise dans la langue Shakespeare) en js sont des objets contenant plusieurs méthodes permettant de gérer l'asynchrone. Les promesses sont sorties avec le lots de nouveautés de l'es2015. 
 
 Les promesses permettent donc d'éviter de faire 50 imbrications de callback. Elles permettent aussi d'écrire du code asynchrone, mais qui s'écrit comme du code synchrone. 
 
@@ -125,7 +125,7 @@ let loadFile = (url) => {
 }
 
 ````
-Ensuite ... on utilise la méthode ``then`` si l'opération a réussit. Dans cette méthode on met callback qui s'éxécutera uniquement si la promesse à réussit. La méthode ```catch``` permet quant à elle de capter si une des opérations ne s'est pas déroulé correctement.
+Ensuite ... on utilise la méthode ``then`` si l'opération à réussit. Dans cette méthode on met un callback qui s'éxécutera uniquement si la promesse à réussit. La méthode ```catch``` permet quant à elle de capter si une des opérations ne s'est pas déroulée correctement.
 
 ````javascript
 
@@ -141,6 +141,10 @@ loadFile('https://jsonplaceholder.typicode.com/users')
 ````
 ## async et await
 
+**Les promesses level up**
+
+async et await sont des déclarartions de fonction, elles définissent l'usage asynchrone de la fonction. Elles sont sorties avec l'es2017. Cette écriture permet une meilleure organisation du code car elle n'oblige plus d'utiliser la méthode ``then``. Ces déclarartions travaillent avec des promesses. 
+
 ````javascript
 let getFile = (url) => {
   return new Promise(resolve => {
@@ -148,11 +152,9 @@ let getFile = (url) => {
         xhr.onload =  (event) => {
             resolve(xhr.responseText);
         };
-
         xhr.onerror =  (err) => {
             reject(err); 
         }
-
         xhr.open('GET', url, true);
         xhr.send(null);
   });
@@ -161,13 +163,14 @@ let getFile = (url) => {
 async function showFile() {
   console.log('calling');
   let result = await getFile("https://jsonplaceholder.typicode.com/users"); 
-  // on attend que getFile est finie son opération
+  // on attend que getFile ait finie son opération avnt de créer la varible result. 
+  // Une fois que l'opération est finie il passe à l'instruction suivante.
   console.log(result);
 }
 
 showFile();
 ````
-
+Le mot clé ``async`` est utilisé pour suspendre et reprendre une fonction. Le mot clé ``await`` définit la variable qui attend un résultat. La variable ``result`` est donc créée uniquement quand ``getFile()`` a fini son opération. 
 
 
 
