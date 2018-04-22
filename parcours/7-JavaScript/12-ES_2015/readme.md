@@ -328,7 +328,7 @@ class SayHello extends Hello {
 	}
 }
 
-let say = new sayHello("Jean");
+let say = new SayHello("Jean");
 console.log(say.getHello()); //return  "Your welcom Jean"
 console.log(say.getHello2()); //return  "Bienvenue Jean"
 ````
