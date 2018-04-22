@@ -173,11 +173,11 @@ Il existe de nouvelles manières d'écire les fonctions. La nouvelle syntaxe se 
 ```javascript
 // En ES5
 
-var getText = function () {
+var getText = function (argument) {
 	console.log(argument);
 }
 
-// En ES6
+// En ES2015
 
 let getText = (argument) => {
 	console.log(argument);
