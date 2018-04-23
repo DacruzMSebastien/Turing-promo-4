@@ -25,8 +25,9 @@ Pendant qu'une opération est éxectutée, les opérations suivantes sont elles 
 -----<Task 2 .. >
 ---------<Task 3 .. >
 ```
-Son éxexution sera plus rapide. Mais du coup, l'asynchrone peut amener quelques erreurs si on se met à penser comme en PHP* par exemple.
+Son éxexution sera plus rapide. Mais du coup, l'asynchrone peut amener quelques erreurs si on se met à penser comme en PHP* (ou tout autre langage de programation synchrone) .
 
+**EXEMPLE 1** 
 Regarde le code ci-dessous et copie-colle dans la console.
 
 ```
@@ -46,7 +47,7 @@ premiere ligne
 2e ligne asynchrone exécuté
 ```
 
-**EXEMPLE** 
+**EXEMPLE 2** 
 
 Code synchrone en js grâce à ``false`` qui est dans la fonction ``req.open``
 
