@@ -48,6 +48,8 @@ premiere ligne
 2e ligne asynchrone exécuté
 ```
 
+Comme on peut le voir, le 3e console.log est executé avant le second. Un codeur habitué à coder en synchrone risque d'être déconcerté lorsqu'il tombera sur un cas comme celui-là (très souvent en JS)
+
 **EXEMPLE 2** 
 
 Code synchrone en js grâce à ``false`` qui est dans la fonction ``req.open``
