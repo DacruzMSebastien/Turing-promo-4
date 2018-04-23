@@ -25,7 +25,26 @@ Pendant qu'une opération est éxectutée, les opérations suivantes sont elles 
 -----<Task 2 .. >
 ---------<Task 3 .. >
 ```
-Son éxexution sera plus rapide. Mais du coup, l'asynchrone peut amener quelques erreurs si on se met à penser comme en PHP* par exemple. 
+Son éxexution sera plus rapide. Mais du coup, l'asynchrone peut amener quelques erreurs si on se met à penser comme en PHP* par exemple.
+
+Regarde le code ci-dessous et copie-colle dans la console.
+
+```
+console.log('premiere ligne')
+
+setTimeout( () => {
+    console.log('2e ligne asynchrone exécuté')
+},0)
+
+console.log('3e ligne')
+```
+Le résultat donnera 
+
+```
+premiere ligne
+3e ligne
+2e ligne asynchrone exécuté
+```
 
 **EXEMPLE** 
 
