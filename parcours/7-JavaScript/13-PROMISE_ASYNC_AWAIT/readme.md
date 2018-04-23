@@ -190,7 +190,7 @@ let getFile = (url) => {
 async function showFile() {
   console.log('calling');
   let result = await getFile("https://jsonplaceholder.typicode.com/users"); 
-  // on attend que getFile ait finie son opération avnt de créer la varible result. 
+  // on attend que getFile ait fini son opération avnt de créer la varible result. 
   // Une fois que l'opération est finie il passe à l'instruction suivante.
   console.log(result);
 }
