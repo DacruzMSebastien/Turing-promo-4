@@ -1,54 +1,52 @@
-# Promise, async & away
+# Promise, async & away ## le js est Asynchrone
 
-## Le js est Asynchrone
+Une des particularités du Javascript est d'être asynchrone. C'est un concept qui peut être déroutant au début quand on vient du PHP par exemple. 
 
-Une des particularité du javascript est d'être asynchrone. C'est un concept qui peut être déroutant au début quand on vient du PHP par exemple. 
+### Asynchrone, c'est quoi.
 
-### Asyncrhone, c'est quoi ?
-Un code asynchrone c'est code qui est non bloquant. C'est à dire que les instructions vont se dérouler dans l'odre dans lequel vous l'avez écrit, mais si une opération met du temps à s'executer, les opérations suivantes se déroulont malgré tout. Avec un code synchrone, ça ne sera pas le cas. Le code se bloquera tant que l'opération n'a pas été éxécutée.
-
+Un code asynchrone c'est code qui est non bloquant. C'est-à-dire que les instructions vont se dérouler dans l'ordre dans lequel vous l'avez écrit, mais si une opération met du temps à s'exécuter, les opérations suivantes ses déroulont malgré tout. Avec un code synchrone, ça ne sera pas le cas. Le code se bloquera tant que l'opération n'a pas été éxécutée.
 Imaginons que nous devions créer trois opérations.
 
 **En synchrone**
-Les opérations seront donc déroulées une à une. Elles attentes que l'opération précédente soit finies. Ce qui peut être long dans certains cas.
+
+Les opérations seront donc déroulées une à une. Elles n'attentes que l'opération précédente soit finie. Ce qui peut être long dans certains cas.
+
 ```
-<Task 1  ...  >
----------------<Task 2 .. >
----------------------------<Task 3>
+Task 1 ... >
+---------------Task 2 ... >
+---------------------------Task 3> 
 ```
 
 **En asynchrone**
-Pendant qu'une opération est éxectutée, les opérations suivantes sont elles aussi éxecutées. Elle n'attendent pas la fin de la tâche 1. 
+
+Pendant qu'une opération est exécutée, les opérations suivantes sont elles aussi exécutées. Elles n'attendent pas la fin de la tâche 1. 
 
 ```
-<Task 1  .....  >
------<Task 2 .. >
----------<Task 3 .. >
+Task 1 ... >
+-----Task 2 ... >
+---------Task 3 ... > 
 ```
-Son éxexution sera plus rapide. Mais du coup, l'asynchrone peut amener quelques erreurs si on se met à penser comme en PHP* (ou tout autre langage de programation synchrone) .
+
+Son exécution sera plus rapide. Mais du coup, l'asynchrone peuvent amener quelques erreurs si on se met à penser comme en PHP* (ou tout autre langage de programmation synchrone) .
 
 **EXEMPLE 1** 
 
 Regarde le code ci-dessous et copie-colle dans la console.
 
-```
-console.log('premiere ligne')
-
-setTimeout( () => {
-    console.log('2e ligne asynchrone exécuté')
-},0)
-
-console.log('3e ligne')
+``` 
+console.log('première ligne')
+setTimeout( () => { console.log('2e ligne asynchrone exécutée')}, 0) 
+console log('3e ligne')
 ```
 Le résultat donnera 
 
-```
-premiere ligne
-3e ligne
-2e ligne asynchrone exécuté
+``` 
+première ligne 
+3e ligne 
+2e ligne asynchrone exécutée 
 ```
 
-Comme on peut le voir, le 3e console.log est executé avant le second. Un codeur habitué à coder en synchrone risque d'être déconcerté lorsqu'il tombera sur un cas comme celui-là (très souvent en JS)
+Comme on peut le voir, la 3e console log est exécuté avant le second. Un codeur habitué à coder en synchrone risque d'être déconcerté lorsqu'il tombera sur un cas comme celui-là (très souvent en JS)
 
 **EXEMPLE 2** 
 
@@ -65,7 +63,9 @@ if (req.status === 200) {
     console.log("Status de la réponse: %d (%s)", req.status, req.statusText);
 }
 ````
+
 L'inconvénient de cette méthode, c'est qu'elle ralentie le temps d'éxecution du script. (Comme vu plus haut). On peut mettre la valeur de ```req.open``` à ``true ``, ce qui le code rendra asynchrone
+
 
 ````javascript
 const req = new XMLHttpRequest();
@@ -78,6 +78,7 @@ if (req.status === 200) {
     console.log("Status de la réponse: %d (%s)", req.status, req.statusText);
 }
 ````
+
 Mais dans ce cas, on ne rentrera pas dans la condition : 
 
 ```javascript
@@ -87,11 +88,12 @@ if (req.status === 200) {
     console.log("Status de la réponse: %d (%s)", req.status, req.statusText);
 }
 ```
-Au moment de son execution, la condition n'est pas remplie...
 
-Avec une utilisation du code asynchrone, nous devons utiliser un événement qui permettra de déclencher une autre fonction (callback) qui sera appellée quand l'opération est finie
+Au moment de son exécution, la condition n'est pas remplie...
 
-Avec l'exemple précédent, on peut gérer l'asynchrone grâce à l'évenement ``onreadystatechange ``
+Avec une utilisation du code asynchrone, nous devons utiliser un événement qui permettra de déclencher une autre fonction (callback) qui sera appellée quand l'opération est finie.
+
+Avec l'exemple précédent, on peut gérer l'asynchrone grâce à l'événement``onreadystatechange ``
 
 ````javascript
 const req = new XMLHttpRequest();
@@ -113,11 +115,11 @@ req.send(null);
 
 ````
 
-C'est un peu long plus que de l'écrire en synchrone, mais les gains de performance sont conséquents et il n'y pas lieu d'hésiter concernant son utilisation.
+C'est un peu long plus que de l'écrire en synchrone, mais les gains de performance sont conséquents et il n'y a pas lieu d'hésiter concernant son utilisation.
 
-Bon le problème avec cette méthode, c'est qu'il faut parfois imbriquer plusieurs ``callback`` ou plusieurs conditions. Et c'est pas joli-joli niveau lecture. Et c'est là qu'interviennent les promesses. Oui c'est vrai finalement c'est le titre de cette page. 
+Bon le problème avec cette méthode, c'est qu'il faut parfois imbriquer plusieurs ``callbacks`` ou plusieurs conditions. Et ce n'est pas joli joli niveau lecture. Et c'est là qu'interviennent les promesses. Oui c'est vrai finalement c'est le titre de cette page. 
 
-(*) Notez que depuis peu, une librairie php permet de faire de l'asynchrone en php (voir [ReactPHP](https://reactphp.org/))
+*(*) Notez que depuis peu, une librairie Php permet de faire de l'asynchrone en Php (voir [ReactPHP](https:/reactphp.Org/))*
 
 
 ## Les promesses (enfin)
@@ -194,7 +196,6 @@ async function showFile() {
 showFile();
 ````
 Le mot clé ``async`` est utilisé pour suspendre et reprendre une fonction. Le mot clé ``await`` définit la variable qui attend un résultat. La variable ``result`` est donc créée uniquement quand ``getFile()`` a fini son opération. 
-
 
 
 
