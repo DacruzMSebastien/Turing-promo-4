@@ -1,4 +1,6 @@
-# Promise, async & away ## le js est Asynchrone
+# Promise, async & away 
+
+## le js est Asynchrone
 
 Une des particularités du Javascript est d'être asynchrone. C'est un concept qui peut être déroutant au début quand on vient du PHP par exemple. 
 
