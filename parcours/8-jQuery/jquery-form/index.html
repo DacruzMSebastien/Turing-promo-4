@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Formulaire interactif</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/master.css">
+</head>
+
+<body>
+    <div class="container">
+        <div id="erreur">
+            <p>Vous n'avez pas rempli correctement les champs du formulaire !</p>
+        </div>
+        <form>
+            <div class="form-group">
+                <label for="pseudo">Pseudo</label>
+                <input type="text" id="pseudo" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="mdp">Mot de passe</label>
+                <input type="password" id="mdp" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="mdp-confirm">Confirmation</label>
+                <input type="password" id="mdp-confirm" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="email">E-mail</label>
+                <input type="text" id="email" class="form-control">
+            </div>
+            <button type="submit" id="send" class="btn btn-default">Envoyer</button>
+            <button type="reset" id="reset" class="btn btn-default">Rafraîchir</button>
+        </form>
+    </div>
+    <script src="js/jquery-2.2.2.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

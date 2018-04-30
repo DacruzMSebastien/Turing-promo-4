@@ -1,0 +1,10 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+}
+#erreur {
+    display: none;
+}
+form {
+    padding: 10px;
+}
